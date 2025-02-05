@@ -6,7 +6,7 @@ function Home() {
       {/* Hero Section */}
       <div className="home-logo">
         <h1 className="home-title">TEQON CORE</h1>
-        <button className="home-button">We are here</button>
+        <button className="home-button">Get Solution</button>
       </div>
 
       {/* Details Section */}
